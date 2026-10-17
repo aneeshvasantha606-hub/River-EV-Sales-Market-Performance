@@ -13,8 +13,7 @@ performance, sales channels, and River Indie colour preferences.
 
 ## Dashboard Preview
 
-![River EV Sales & Market Performance
-Dashboard](![alt text](<Images/EV River Dashboard.jpg>))
+![Dashboard](<Images/EV River Dashboard.jpg>)
 
 *For the preview to render on GitHub, commit `EV River Dashboard.jpg` to
 the same repository folder as this README. If you move the image into
